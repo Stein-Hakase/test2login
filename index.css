@@ -1,0 +1,8 @@
+/* Login Style */
+.login{
+    max-width: 350px;
+    height:  400px;
+    box-shadow: 8px 7px 19px -6px rgba(145,184,155,1);
+    border-radius: 5px;
+
+}
